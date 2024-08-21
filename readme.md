@@ -1,5 +1,4 @@
-# 🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal
-
+# 🏋️‍♂️ Assistente de Personal Trainer
 
 ## 📋 Índice
 
@@ -116,3 +115,4 @@ O quarto e ultimo passo tem como objetivo definir qual é o objetivo principal d
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+- [Prompt para Personal Trainer com IA](https://github.com/Alexandre-bessi/prompt-challenger-personal-ia/blob/main/.github/prompt/prompt%20chatbot%20personal%20trainer.txt)
