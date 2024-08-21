@@ -7,7 +7,7 @@
 * [💪 Biotipos Corporais](#-biotipos-corporais)
 * [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 * [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
-* 🏊‍♂️ [Objetivos de treino](#-Objetivos-de-treino)
+* [🏊‍♂️ Objetivos de treino](#-Objetivos-de-treino)
 * [🛠️ Regras de negócio](#️-regras-de-negócio)
 * [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
@@ -66,11 +66,11 @@ O primeiro passo para personalizar o treino é determinar o biotipo corporal do 
 
 O segundo passo é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
 
-| **Imagem**                                                   | **Dias por Semana** | **Tipo de Treino Sugerido** |
-| ------------------------------------------------------------------ | ------------------------- | --------------------------------- |
-| `<img src=".github/assets/calendar.png" width="50" height="50">` | 1 dia                     | Treino Full Body                  |
-| `<img src=".github/assets/calendar.png" width="50" height="50">` | 3 dias                    | Treino ABC                        |
-| `<img src=".github/assets/calendar.png" width="50" height="50">` | 3 dias ou mais           | Treino ABCDE                      |
+| **Dias por Semana** | **Tipo de Treino Sugerido** |
+| ------------------------- | --------------------------------- |
+| 1 dia                     | Treino Full Body                  |
+| 3 dias                    | Treino ABC                        |
+| 3 dias ou mais           | Treino ABCDE                      |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
@@ -85,7 +85,7 @@ O terceiro passo envolve a escolha do tipo de exercício preferido. Aqui estão 
 | **Tipo de Treino** | **Descrição**                                                                                           |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                 |
-| **Maquinário**    | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
+| **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
 | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
 | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
 | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                       |
@@ -103,8 +103,6 @@ O quarto e ultimo passo tem como objetivo definir qual é o objetivo principal d
 | Ganhar massa corporal | Aumento do tamanho e volume dos músculos                  |
 
 ---
-
-
 
 ## 🛠️ Regras de negócio
 
